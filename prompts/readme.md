@@ -1,82 +1,146 @@
+🎙️ Algoritmo Óptico
 
-### PROMPT — Roteiro de Podcast (IA e Visão Computacional)
+Algoritmo Óptico é um projeto de podcast e conteúdo técnico voltado à Inteligência Artificial, Visão Computacional e Pensamento Algorítmico, com abordagem rigorosa, aplicada e livre de sensacionalismo tecnológico.
+O projeto se posiciona no cruzamento entre ótica clássica, processamento de imagens e algoritmos modernos, refletindo a transição histórica e conceitual da visão física para a visão computacional orientada por dados.
 
-Você é um roteirista de podcast de tecnologia, com experiência em Inteligência Artificial e Visão Computacional.
-Vamos criar um roteiro curto de podcast, apresentado por uma única pessoa, chamada Rafael Tasinato, com foco em IA aplicada à visão computacional, utilizando o tema Algoritmo Óptico.
+📌 Objetivo do Projeto
 
-O podcast deve ter tom técnico acessível, profissional e didático, adequado tanto para iniciantes quanto para profissionais da área de tecnologia.
+Comunicar conceitos de IA e Visão Computacional de forma técnica, acessível e profissional
 
-ESTRUTURA DO ROTEIRO
+Produzir conteúdo compatível com Spotify, Apple Podcasts e LinkedIn
 
-O roteiro deve conter exatamente os seguintes blocos, nesta ordem:
+Reforçar autoridade acadêmica e prática em engenharia de software, algoritmos e sistemas inteligentes
 
-[INTRODUÇÃO]
-[CURIOSIDADE 1]
-[CURIOSIDADE 2]
-[FINALIZAÇÃO]
+Evitar narrativas futuristas ou especulativas, focando em aplicações reais e fundamentos sólidos
 
-REGRAS DE CONTEÚDO
+🎨 Prompt 01 — Capa Editorial do Podcast
+Conceito Visual
 
-No bloco [INTRODUÇÃO], crie uma introdução envolvente e objetiva, no estilo de divulgação científica e tecnologia, apresentando brevemente o tema Algoritmo Óptico, explicando que ele representa a transição da visão física e da óptica clássica para a visão computacional baseada em algoritmos e dados.
+Algoritmo Óptico representa a combinação entre:
 
-No bloco [CURIOSIDADE 1], apresente uma curiosidade clara e interessante sobre como a óptica clássica (lentes, luz, câmeras) influenciou diretamente o surgimento da visão computacional.
+Óptica clássica (lentes, prismas, feixes de luz, diagramas ópticos)
 
-No bloco [CURIOSIDADE 2], apresente uma curiosidade prática sobre como algoritmos de visão computacional e modelos de IA “enxergam” imagens hoje, mencionando conceitos como pixels, padrões e redes neurais, sem aprofundamento técnico excessivo.
+Algoritmos modernos (matrizes de pixels, redes neurais estilizadas, grafos algorítmicos, padrões geométricos de processamento de imagem)
 
-No bloco [FINALIZAÇÃO], finalize com uma despedida curta, clara e profissional, encerrando obrigatoriamente com a frase:
-“Eu sou o Rafael Tasinato e esse foi o Algoritmo Óptico dessa semana.”
+A transição entre o domínio analógico (óptico) e o digital (computacional) deve ser gradual, conceitual e elegante, sem representações literais ou exageradas.
 
-REGRAS GERAIS
+Estilo Visual
 
-Utilizar linguagem clara e de fácil compreensão
+Design editorial tecnológico
 
-Evitar jargões técnicos excessivos
+Limpo, acadêmico e sofisticado
 
-O podcast deve ser curto, direto e objetivo
+Adequado para plataformas profissionais e institucionais
 
-O roteiro deve caber em até 2 minutos de áudio
+Elementos Visuais Permitidos
 
-O conteúdo deve transmitir autoridade técnica, sem tom acadêmico excessivo
+Lentes, prismas, diagramas ópticos sutis
 
-Todo o podcast deve ser apresentado somente por Rafael Tasinato
+Feixes de luz abstratos
 
-REGRAS NEGATIVAS
+Matrizes de pixels
 
-Não usar excesso de termos técnicos
+Redes neurais estilizadas (não futuristas)
 
-Não ultrapassar 2 minutos de duração
+Grafos e padrões geométricos associados à visão computacional
 
-Não utilizar humor infantil ou informal demais
+Tipografia (renderizada na imagem)
 
-Não transformar o roteiro em aula ou palestra
+Fonte sans-serif moderna, técnica e editorial
 
-#### 
-Algoritmo Óptico Concept: Combination of classical optics and modern algorithms, symbolizing the transition from physical vision to data-driven computer vision. Visual style: Clean, academic, and sophisticated technological editorial design, suitable for Spotify, Apple Podcasts, and LinkedIn. Imagery: Represent the conceptual transition from classical optics to modern computer vision. Combine optical elements such as lenses, prisms, light beams, and subtle optical diagrams with computational elements like pixel matrices, stylized neural networks, algorithmic graphs, and abstract geometric patterns related to image processing. The transition between analog optics and digital computation must be elegant, conceptual, and gradual, avoiding literal or exaggerated representations. Typography (rendered in image): Modern, technical sans-serif font with editorial appearance. The title “Algoritmo Óptico” must be clearly legible and centered. No decorative effects, artificial shadows, or futuristic exaggeration. Typography should convey authority, precision, and expert-level technological branding. Color palette: Primary colors: deep blue, graphite gray, and black. Accent color: soft gold or technical white. Balanced lighting, professional contrast, matte finish, no excessive brightness. Restrictions: No cartoon characters. No cyberpunk or sci-fi aesthetics. No visual clutter. No generic icons or clipart. Result: A high-level editorial podcast cover that conveys authority in artificial intelligence, computer vision, and algorithmic thinking, designed for an academic and professional audience and clearly positioning the podcast as produced by technology experts.
+Título “Algoritmo Óptico” centralizado e perfeitamente legível
 
-### 
+Sem efeitos decorativos, sombras artificiais ou exageros visuais
 
-Você é um roteirista de podcasts de tecnologia e consultor de branding, com especialização em Inteligência Artificial e Visão Computacional.
+Tipografia deve transmitir:
 
-Sua tarefa é criar exatamente cinco (5) sugestões de nomes criativos para um podcast de tecnologia focado em IA e Visão Computacional.
+Precisão
 
-Requisitos obrigatórios:
+Autoridade
 
-Cada nome deve conter um trocadilho nerd ou técnico inteligente, compreensível por profissionais e entusiastas de tecnologia.
+Rigor técnico
 
-O tom deve ser moderno, técnico e sofisticado, evitando humor infantil.
+Paleta de Cores
 
-Os nomes devem ser curtos, memoráveis e adequados para branding (Spotify, Apple Podcasts, GitHub, LinkedIn).
+Cores primárias:
 
-É desejável o uso de referências a conceitos como redes neurais, pixels, visão, percepção, algoritmos, modelos, dados ou computação.
+Azul profundo
 
-Os nomes devem funcionar tanto para um público acadêmico quanto profissional.
+Cinza grafite
 
-Formato de saída:
+Preto
 
-Apresente uma lista numerada de 1 a 5.
+Cores de destaque:
 
-Para cada nome, inclua uma frase curta explicando o trocadilho ou conceito técnico envolvido.
+Dourado suave ou branco técnico
 
-Não utilize emojis.
-Não adicione comentários fora da lista.
+Iluminação equilibrada
 
+Contraste profissional
+
+Acabamento fosco
+
+Sem brilho excessivo
+
+Restrições Visuais
+
+❌ Personagens cartoon
+❌ Estética cyberpunk ou sci-fi
+❌ Poluição visual
+❌ Ícones genéricos ou clipart
+❌ Exageros futuristas
+
+Resultado Esperado
+
+Uma capa editorial de alto nível, que:
+
+Posicione o podcast como conteúdo produzido por especialistas
+
+Comunique autoridade em Inteligência Artificial, Visão Computacional e Algoritmos
+
+Seja adequada a um público acadêmico, técnico e profissional
+
+🤖 Prompt — Roterista de I.A
+Papel do Modelo
+
+Você atua como roteirista técnico de Inteligência Artificial, com domínio em:
+
+Aprendizado de Máquina
+
+Visão Computacional
+
+Processamento de Imagens
+
+Engenharia de Software
+
+O conteúdo deve ser:
+
+Preciso
+
+Aplicado
+
+Livre de metáforas vazias ou especulação futurista
+
+Diretrizes de Conteúdo
+
+Linguagem clara, objetiva e profissional
+
+Ênfase em aplicações reais e fundamentos técnicos
+
+Adequado para episódios curtos (≈ 2 minutos)
+
+Compatível com divulgação em ambientes acadêmicos e corporativos
+
+📎 Público-Alvo
+
+Engenheiros e desenvolvedores
+
+Profissionais de IA e Ciência de Dados
+
+Estudantes de Computação, Engenharia e áreas correlatas
+
+Pesquisadores e público técnico interessado em visão computacional
+
+📄 Licença e Uso
+
+Este projeto destina-se à divulgação técnica e científica, podendo ser reutilizado e adaptado conforme a licença definida neste repositório.
